@@ -63,7 +63,7 @@
 /* Banner */
 
 	#banner {
-		background-size: 675px 135px;
+		background-size: cover;
 		padding: 5em 2em 4em 2em;
 	}
 

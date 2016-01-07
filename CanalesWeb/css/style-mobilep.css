@@ -84,7 +84,7 @@
 /* Banner */
 
 	#banner {
-		background-size: 540px 108px;
+		background-size: cover;
 		padding: 7em 2em 6em 2em;
 	}
 
