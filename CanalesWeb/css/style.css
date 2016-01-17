@@ -335,7 +335,7 @@ select {
 }
 
 textarea {
-    padding: 0.75em 1em;
+    padding: 0.75em 8.5em;
 }
 
 input[type="checkbox"],
