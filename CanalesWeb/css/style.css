@@ -1074,7 +1074,7 @@ body.landing #skel-layers-wrapper {
 
 #header h1 a {
     font-size: 1.25em;
-    color: #324677 !important;
+    color: #ffffff !important;
 }
 
 #header nav {
@@ -1103,7 +1103,7 @@ body.landing #skel-layers-wrapper {
 }
 
 #header nav > ul > li a {
-    color: #4F5051 !important;
+    color: #ffffff !important;
     display: inline-block;
     font-weight: 900;
     letter-spacing: 0.05em;
@@ -1244,12 +1244,12 @@ body.landing #skel-layers-wrapper {
 
 #banner {
     background-color: #6AABB2;
-    background-image: url("../images/Banner%20Canales%20de%20Amor-02.jpg");
+    background-image: url("../images/Banner%20Canales%20de%20Amor%20copia%202-01.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     color: black;
-    padding: 20em 0 14em 0;
+    padding: 37em 0 6em 0;
     text-align: center;
 }
 
@@ -1323,4 +1323,17 @@ body.landing #skel-layers-wrapper {
 #footer .menu a {
     color: inherit;
     text-decoration: none;
+}
+
+.same{
+    min-height: 550px !important;
+    max-height: 550px !important;
+}
+
+.same-small{
+    min-height: 350px !important;
+    max-height: 350px !important;
+}
+.justify{
+    text-align : justify;
 }
