@@ -972,7 +972,7 @@ input[type="button"]:disabled,
 }
 
 .wrapper.style2 {
-    background: #38ADB4;
+    background: #8ac9e6;
     color: #555;
 }
 
@@ -1050,7 +1050,7 @@ body.landing #skel-layers-wrapper {
 @keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }
 
 #header {
-    background: #38ADB4;
+    background: #8ac9e6;
     color: #e2e2e1;
     cursor: default;
     height: 3.25em;
