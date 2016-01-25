@@ -47,12 +47,12 @@ a {
     -o-transition: color 0.2s ease-in-out;
     -ms-transition: color 0.2s ease-in-out;
     transition: color 0.2s ease-in-out;
-    color: #6ccae9;
+    color: #8AC9E3;
     text-decoration: underline;
 }
 
 a:hover {
-    color: #6ccae9 !important;
+    color: #8AC9E3 !important;
     text-decoration: none;
 }
 
@@ -236,7 +236,7 @@ header.major > :first-child:after {
 }
 
 header.major p {
-    color: #808080;
+    color: #8AC9E3;
     font-size: 1.1em;
     line-height: 1.65em;
     margin: 0 auto 0 auto;
@@ -249,7 +249,7 @@ form {
 }
 
 label {
-    color: #555555;
+    color: #8AC9E3;
     display: block;
     font-size: 0.9em;
     font-weight: 900;
@@ -290,8 +290,8 @@ input[type="password"]:focus,
 input[type="email"]:focus,
 select:focus,
 textarea:focus {
-    border-color: #6ccae9;
-    box-shadow: 0 0 0 1px #6ccae9;
+    border-color: #8AC9E3;
+    box-shadow: 0 0 0 1px #8AC9E3;
 }
 
 .select-wrapper {
@@ -392,14 +392,14 @@ input[type="radio"] + label:before {
 
 input[type="checkbox"]:checked + label:before,
 input[type="radio"]:checked + label:before {
-    background: #57504a;
+    background: #8AC9E3;
     color: #ffffff;
     content: '\f00c';
 }
 
 input[type="checkbox"]:focus + label:before,
 input[type="radio"]:focus + label:before {
-    box-shadow: 0 0 0 2px #6ccae9;
+    box-shadow: 0 0 0 2px #8AC9E3;
 }
 
 input[type="radio"] + label:before {
@@ -483,7 +483,7 @@ input[type="radio"] + label:before {
     background-image: -o-linear-gradient(45deg, rgba(0,0,0,0.1) 50%, rgba(0,0,0,0) 0%);
     background-image: -ms-linear-gradient(45deg, rgba(0,0,0,0.1) 50%, rgba(0,0,0,0) 0%);
     background-image: linear-gradient(45deg, rgba(0,0,0,0.1) 50%, rgba(0,0,0,0) 0%);
-    background-color: #6ccae9;
+    background-color: #8AC9E3;
     border-radius: 100%;
     color: #ffffff;
     cursor: default;
@@ -500,7 +500,7 @@ input[type="radio"] + label:before {
 }
 
 .icon.major.alt {
-    background-color: #57504a;
+    background-color: #8AC9E3;
     color: #ffffff;
 }
 
@@ -821,7 +821,7 @@ input[type="button"],
     -o-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
     -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
     transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-    background-color: #6ccae9;
+    background-color: #8AC9E3;
     border: 0;
     border-radius: 0;
     color: #ffffff !important;
@@ -929,7 +929,7 @@ input[type="submit"].special,
 input[type="reset"].special,
 input[type="button"].special,
 .button.special {
-    background-color: #6ccae9;
+    background-color: #8AC9E3;
     color: #ffffff !important;
 }
 
@@ -972,7 +972,7 @@ input[type="button"]:disabled,
 }
 
 .wrapper.style2 {
-    background: #8ac9e6;
+    background: #8AC9E3;
     color: #555;
 }
 
@@ -996,7 +996,7 @@ input[type="button"]:disabled,
 .wrapper.style2 input[type="reset"],
 .wrapper.style2 input[type="button"],
 .wrapper.style2 .button {
-    color: #6ccae9 !important;
+    color: #8AC9E3 !important;
     background: #ffffff;
 }
 
@@ -1050,7 +1050,7 @@ body.landing #skel-layers-wrapper {
 @keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }
 
 #header {
-    background: #8ac9e6;
+    background: #8AC9E3;
     color: #e2e2e1;
     cursor: default;
     height: 3.25em;
@@ -1233,7 +1233,7 @@ body.landing #skel-layers-wrapper {
 }
 
 .dropotron li.active, .dropotron li:hover {
-    background: #6ccae9;
+    background: #8AC9E3;
 }
 
 .dropotron li.active > a, .dropotron li:hover > a {
@@ -1266,7 +1266,7 @@ body.landing #skel-layers-wrapper {
 }
 
 #banner p {
-    color: #6ccae9;
+    color: #8AC9E3;
     font-size: 2em;
     margin-bottom: 1.75em;
 }
