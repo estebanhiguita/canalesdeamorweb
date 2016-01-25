@@ -64,7 +64,7 @@
 
 	#banner {
 		background-size: cover;
-		padding: 5em 2em 4em 2em;
+		padding: 6em 0 8em 0;
 	}
 
 		#banner h2 {
@@ -93,3 +93,7 @@
 			margin-left: 0;
 			padding-left: 0;
 		}
+
+textarea{
+    padding: 0.75em 1em;
+}
